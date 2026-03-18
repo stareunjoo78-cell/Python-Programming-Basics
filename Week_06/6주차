@@ -1,0 +1,3 @@
+6주차: 함수(Function)와 모듈
+     매개변수, 반환값, 가변 인자(`*args`, `**kwargs`) 이해
+     `lambda` 표현식 및 내장 함수(`map`, `filter`) 활용
