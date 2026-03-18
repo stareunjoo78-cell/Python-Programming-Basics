@@ -1,4 +1,4 @@
-# Python-Programming-Basics
+# Python-Programming-Basics ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 Fundamentals of Python programming for Data Science and Machine Learning applications.
 
 # [Course] Python Basic: 실무 프로그래밍 15주 완성
