@@ -57,7 +57,7 @@ Fundamentals of Python programming for Data Science and Machine Learning applica
 * **14주차: 종합 실무 실습 (Mini Project)**
     * 공공데이터(CSV)를 활용한 데이터 분석 프로세스 총정리
     * 데이터 정제부터 인사이트 도출, 시각화까지 전 과정 구현
-* **15주차: 🎓 기말고사**
+* **15주차: 기말고사**
     * 최종 프로젝트 결과물 발표 및 개별 평가
 
 ---
