@@ -11,7 +11,7 @@ Fundamentals of Python programming for Data Science and Machine Learning applica
 
 ### [1단계] 파이썬 기초 및 환경 구축
 * **1주차: 개발 환경 설정 및 프로그래밍 입문**
-    * Python 설치, VS Code 및 Jupyter Notebook 환경 설정
+    * Python 설치, Jupyter Notebook 환경 설정
     * Hello World 출력 및 파이썬의 주요 특징 이해
 * **2주차: 자료형(Data Types)과 변수**
     * 숫자형, 문자열(Indexing/Slicing), 불(Bool) 자료형 학습
